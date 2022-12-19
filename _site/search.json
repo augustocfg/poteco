@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "potecoblog",
+    "section": "",
+    "text": "Bem-Vindo!\n\n\n\n\n\n\n\nComunicados\n\n\n\n\n\n\n\n\n\n\n\nDec 19, 2022\n\n\nEquipe Poteco\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre Nós",
+    "section": "",
+    "text": "Blog com posts de economia com autoria de Augusto Gurgel (Finanças e Finanças Públicas) e Ismael Santos (Macroeconomia e Monetária)."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Bem-Vindo!",
+    "section": "",
+    "text": "Esse é o nosso primeiro post, o projeto têm como proposta fazer posts com análise de dados sobre temas econômicos para produzir conteúdo e servir como um projeto a parte.\nEstamos arrumando a casa, enquanto isso adotaremos o piggy como o nosso ícone."
+  },
+  {
+    "objectID": "about.html#augusto-gurgel",
+    "href": "about.html#augusto-gurgel",
+    "title": "Sobre Nós",
+    "section": "Augusto Gurgel",
+    "text": "Augusto Gurgel"
+  },
+  {
+    "objectID": "about.html#ismael-santos",
+    "href": "about.html#ismael-santos",
+    "title": "Sobre Nós",
+    "section": "Ismael Santos",
+    "text": "Ismael Santos"
+  }
+]
